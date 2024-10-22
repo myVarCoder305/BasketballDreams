@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<link href="https://fonts.googleapis.com/css2?family=Sofadi+One&display=swap" rel="stylesheet" />
+	<link rel="stylesheet" type="text/css" href="styles.css"/>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>Photo Feed</title>
+</head>
+<body>
+	<div>
+		<header>
+			<div class="container">
+				<h1>BreatheCode Photo Feed</h1>
+			</div>
+		</header>
+		<div class="container">
+			<div class="post">
+				<div class="post-header">
+					<div>
+						<h2>Baketball dreams</h2>
+					</div><div>
+						<span>12/14</span>
+					</div>
+				</div>
+				<div>
+					<img
+						src="https://images.pexels.com/photos/358042/pexels-photo-358042.jpeg?auto=compress&cs=tinysrgb&w=600"></img>
+				</div>
+				<div>
+					<p>This is my first photo of the feed, this is a multi line comment for testing purposes. I am
+						learning to code with <strong>#BreatheCode</strong></p>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+	<div class="container">
+		<div class="post">
+			<div class="post-header">
+				<div>
+					<h2>Practice everyday</h2>
+				</div><div>
+					<span>12/17</span>
+				</div>
+			</div>
+			<div>
+				<img
+					src="https://images.pexels.com/photos/3755449/pexels-photo-3755449.jpeg?auto=compress&cs=tinysrgb&w=600"></img>
+			</div>
+			<div>
+				<p>Practice is the gateway to greatness. I am
+					learning to code with <strong>#BreatheCode</strong></p>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+<div class="container">
+	<div class="post">
+		<div class="post-header">
+			<div>
+				<h2>Team work</h2>
+			</div><div>
+				<span>12/17</span>
+			</div>
+		</div>
+		<div>
+			<img
+				src="https://images.pexels.com/photos/3755440/pexels-photo-3755440.jpeg?auto=compress&cs=tinysrgb&w=600"></img>
+		</div>
+		<div>
+			<p>Teamwork makes the dream work. So does <strong>#BreatheCode</strong></p>
+		</div>
+	</div>
+</div>
+</div>
+
+
+
+<div class="container">
+	<div class="post">
+		<div class="post-header">
+			<div>
+				<h2>Keep eyes on the prize</h2>
+			</div><div>
+				<span>12/17</span>
+			</div>
+		</div>
+		<div class="lastimage">
+			<hr>
+			<img src="https://cdn.bleacherreport.net/images_root/slides/photos/000/605/423/102186824_original.jpg?1293896589">
+		</div>
+		<div>
+			<p>All or nothing... <strong>#BreatheCode</strong></p>
+		</div>
+	  </div>
+    </div>
+</div>
+</body>
+</html>
